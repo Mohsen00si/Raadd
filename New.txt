@@ -16,3 +16,7 @@ vless://Telegram-Parsashonam@144.76.1.88:443?encryption=none&security=tls&sni=ro
 vless://Telegram-Parsashonam@216.24.57.1:443?encryption=none&security=tls&sni=rook.io&alpn=h2,http/1.1&insecure=1&type=xhttp&host=radkh.netlify.app&path=/p4r34m#RadmehrSi_rook.io
 vless://Telegram-Parsashonam@94.130.13.19:443?encryption=none&security=tls&sni=rook.io&alpn=h2,http/1.1&insecure=1&type=xhttp&host=radkh.netlify.app&path=/p4r34m#RadmehrSi_rook.io
 vless://Telegram-Parsashonam@178.22.122.101:443?encryption=none&security=tls&sni=rook.io&alpn=h2,http/1.1&insecure=1&type=xhttp&host=radkh.netlify.app&path=/p4r34m#RadmehrSi_rook.io
+vless://Telegram-Parsashonam@50.7.5.83:443?encryption=none&security=tls&sni=istio.io&alpn=h2,http/1.1&insecure=1&type=xhttp&host=radkh.netlify.app&path=/p4r34m#RadmehrSi_istio.io
+vless://Telegram-Parsashonam@50.7.5.85:443?encryption=none&security=tls&sni=istio.io&alpn=h2,http/1.1&insecure=1&type=xhttp&host=radkh.netlify.app&path=/p4r34m#RadmehrSi_istio.io
+vless://Telegram-Parsashonam@144.76.1.88:443?encryption=none&security=tls&sni=istio.io&alpn=h2,http/1.1&insecure=1&type=xhttp&host=radkh.netlify.app&path=/p4r34m#RadmehrSi_istio.io
+vless://Telegram-Parsashonam@216.24.57.1:443?encryption=none&security=tls&sni=istio.io&alpn=h2,http/1.1&insecure=1&type=xhttp&host=radkh.netlify.app&path=/p4r34m#RadmehrSi_istio.io
